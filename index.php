@@ -1,6 +1,6 @@
 <?php
 
-$file = "WG-Security_10.0.1.apk";
+$file = "WG-Security_10.0.apk";
 
 if (file_exists($file)) {
 
